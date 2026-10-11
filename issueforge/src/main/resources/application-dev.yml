@@ -1,0 +1,6 @@
+spring:
+ application:
+  name: issueforge
+
+server:
+ port: 8082
